@@ -1,0 +1,44 @@
+* {
+  background-color: darkslategrey;
+  margin: 0;
+}
+.container {
+  color: black;
+  text-align: center;
+  padding: 50px 0 50px 0;
+  font-family: cursive;
+  font-size: 30px;
+}
+.dice {
+  display: inline-block;
+  padding-top: 50px;
+  padding-inline: 50px;
+}
+.dice p {
+  padding-bottom: 30px;
+}
+.btn {
+  padding-top: 50px;
+}
+.btn button {
+  width: 15%;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: cursive;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-color: 2px white;
+  border-radius: 10px;
+}
+.btn button:hover {
+  background-color: white;
+  color: black;
+}
+footer {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-family: cursive;
+  font-weight: 600;
+}
